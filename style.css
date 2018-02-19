@@ -1,0 +1,14 @@
+#ta{
+  height: 300px;
+  width: 300px;
+}
+
+#rawMarkdown{
+  padding: 20px;
+}
+
+.col-xs-6{
+  padding: 10px;
+  border: 1px solid blue;
+  margin: 10px;
+}
